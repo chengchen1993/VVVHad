@@ -1,0 +1,10 @@
+crab status crab_QCDPT1000to1400
+crab status crab_QCDPT1400to1800
+crab status crab_QCDPT170to300
+crab status crab_QCDPT1800to2400
+crab status crab_QCDPT2400to3200
+crab status crab_QCDPT300to470
+crab status crab_QCDPT3200toInf
+crab status crab_QCDPT470to600
+crab status crab_QCDPT600to800
+crab status crab_QCDPT800to1000

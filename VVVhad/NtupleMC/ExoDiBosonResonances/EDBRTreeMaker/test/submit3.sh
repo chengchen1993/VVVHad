@@ -1,0 +1,10 @@
+crab submit QCDPT1000to1400.py
+crab submit QCDPT1400to1800.py
+crab submit QCDPT170to300.py
+crab submit QCDPT1800to2400.py
+crab submit QCDPT2400to3200.py
+crab submit QCDPT300to470.py
+crab submit QCDPT3200toInf.py
+crab submit QCDPT470to600.py
+crab submit QCDPT600to800.py
+crab submit QCDPT800to1000.py

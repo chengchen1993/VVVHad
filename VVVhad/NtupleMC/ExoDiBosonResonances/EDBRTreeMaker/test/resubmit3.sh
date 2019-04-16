@@ -1,0 +1,10 @@
+crab resubmit crab_QCDPT1000to1400
+crab resubmit crab_QCDPT1400to1800
+crab resubmit crab_QCDPT170to300
+crab resubmit crab_QCDPT1800to2400
+crab resubmit crab_QCDPT2400to3200
+crab resubmit crab_QCDPT300to470
+crab resubmit crab_QCDPT3200toInf
+crab resubmit crab_QCDPT470to600
+crab resubmit crab_QCDPT600to800
+crab resubmit crab_QCDPT800to1000
